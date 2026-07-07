@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Concesionario",
+  "description": "Sistema completo de gestión de concesionario con inventario, ventas, historial individual de vehículos, administración de usuarios y permisos, y reportes analíticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
